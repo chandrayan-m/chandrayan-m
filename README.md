@@ -3,11 +3,11 @@
 ## :dragon: &nbsp; About Me
 
 💡 &nbsp;I like to design, develop and deploy highly scalable solutions with best software practises. \
-:office: &nbsp;Currently working for Kroll as a Senior Data Engineer and Architect \
+:office: &nbsp;Currently working for Providence as a Lead Data Engineer and Architect \
 🎓 &nbsp;I have done my engineering from GNDEC, Punjab \
 ✍️ &nbsp;In my free time, I travel and read stuffs.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering or some nerd discussions.\
-✉️ &nbsp;You can shoot me an email at torayan@outlook.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at chandrayan0011@gmail.com! I'll try to respond as soon as I can.
 
 
 
